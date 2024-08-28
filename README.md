@@ -6,7 +6,7 @@
 ![Blank diagram](https://github.com/user-attachments/assets/5e3f2e54-b905-4781-8078-bf4ce8ee7ae4)
 
 
-#Process:
+# Process:
 - created a EC2 instance VM and installed all of the needed dependencies, which included Python Pandas, Sodapy, Apache Airflow and more
 - then extracted data using the NYC Open Data API into an S3 bucket.
 - transformed the data, which included changing data types, adding columns, dropping columns and making minor edits.

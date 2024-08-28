@@ -19,13 +19,18 @@
 # Technologies Used:
 
 Programming Language
+
 - Python
+
 AWS:
 - EC2 Instance
 - S3 Buckets
+  
 Snowflake:
 - Snowpipe
+  
 Power Bi
+
 Orchestrator:
 -Apache Airflow
 
